@@ -1,4 +1,7 @@
-# Single seriver infinite capacity - Markovian Model
+## EX NO: 07
+## DATE:
+
+# <p align="center">Single server infinite capacity - Markovian Model</p>
 
 # Aim : 
 To find 
